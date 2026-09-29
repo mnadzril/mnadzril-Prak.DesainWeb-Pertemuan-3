@@ -11,15 +11,15 @@ Selain itu, digunakan empat format penulisan warna berbeda: hexadecimal(#003366)
 Hasil pengujian tampilan desktop dan mobile menunjukkan halaman tetapterbaca dengan baik karena penggunaan viewport dan ukuran font yang proporsional. Dari tugas ini disimpulkan bahwa CSS inline efektif untuk latihan dan eksperimen cepat, sementara format warna yang beragam membantu menciptakan kontras serta hierarki visual yang baik pada halaman web.
 
 # Screenshoot-Desktop (indeks.html)
-<img width="959" height="502" alt="screenshoot-desktop" src="https://github.com/user-attachments/assets/0f2de1e3-7ab8-4ac5-b633-abe75c374927" />
+<img width="959" height="502" alt="screenshoot-desktop" src="https://github.com/user-attachments/assets/fb1e7d68-96f7-41b5-bbed-3a21f089bacb" />
 
 # Screenshoot-mobile (indeks.html)
-<img width="299" height="432" alt="screenshoot-mobile" src="https://github.com/user-attachments/assets/541183db-566a-4e29-8cc6-011a49bc782e" />
+<img width="299" height="432" alt="screenshoot-mobile" src="https://github.com/user-attachments/assets/f290795f-a02e-4d30-a337-ec35dd9091fc" />
 
 # Screenshoot-Desktop (style-guide.html)
-<img width="959" height="503" alt="screenshot-desktop" src="https://github.com/user-attachments/assets/15a88535-1eba-45b4-b1d6-febfc1c8750a" />
+<img width="959" height="503" alt="screenshot-desktop" src="https://github.com/user-attachments/assets/b883f87f-6e07-4b73-8f2b-232263a719a7" />
 
 # Screenshoot-Mobile (style-guide.html)
-<img width="959" height="503" alt="screenshot-desktop" src="https://github.com/user-attachments/assets/bf197120-99b1-424c-8a84-f45a26116c95" />
+<img width="299" height="470" alt="screenshoot-mobile" src="https://github.com/user-attachments/assets/d1b21457-31c4-4b59-a982-52c42a3a7c6a" />
 
 
