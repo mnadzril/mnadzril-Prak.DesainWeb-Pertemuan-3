@@ -1,6 +1,9 @@
 # Prak.DesainWeb-Pertemuan-3
 # Tugas Pertemuan 3
 
+Tugas Praktikum Pertemuan 3 — CSS Inline
+Nama: Muhammad Nadzril Ilham KusumaNPM: 4525210084
+
 Pada tugas pertemuan 4 ini, halaman profil dari pertemuan 3 dimodifikasidengan menerapkan sepuluh properti CSS inline, yaitu font-family,font-size, font-weight, color, background-color, text-align, line-height,margin, padding, dan border. CSS inline ditulis langsung pada atributstyle setiap elemen, sehingga gaya bersifat spesifik per elemen dan mudahdipahami. Namun kelemahannya, kode menjadi sulit dipelihara jika halamanmakin besar karena style bercampur dengan struktur HTML.
 
 Selain itu, digunakan empat format penulisan warna berbeda: hexadecimal(#003366), rgb(0,102,153), rgba(0,102,153,0.15) untuk efek transparansi,serta hsl(210,100%,15%). Mini style guide dibuat untuk mendokumentasikandua opsi font, warna utama, warna aksen, ukuran heading, dan line-heightagar tampilan halaman tetap konsisten.
